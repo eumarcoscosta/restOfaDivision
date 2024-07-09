@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{4EEC5E26-92C9-48C4-AD34-1BEA52C352C7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="restOfaDivision/Program.cs">
+    <Files>
+      <File FileName="restOfaDivision/Program.cs" Line="38" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="restOfaDivision" expanded="True">
+            <Node name="restOfaDivision">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.restOfaDivision PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
